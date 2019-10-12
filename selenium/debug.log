@@ -1,0 +1,19 @@
+[1012/120012.949:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1012/120013.003:ERROR:exception_snapshot_win.cc(98)] thread ID 11572 not found in process
+[1012/150015.259:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150015.303:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150015.303:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150015.303:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150015.303:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1012/150015.327:ERROR:exception_snapshot_win.cc(98)] thread ID 18044 not found in process
+[1012/150255.589:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150255.593:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150255.593:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150255.593:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1012/150255.597:ERROR:exception_snapshot_win.cc(98)] thread ID 13044 not found in process
+[1012/150409.040:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150409.044:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150409.044:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150409.044:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1012/150409.044:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1012/150409.044:ERROR:exception_snapshot_win.cc(98)] thread ID 13276 not found in process
